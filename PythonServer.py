@@ -31,7 +31,7 @@ port = 8080
 server_socket.bind(("0.0.0.0", port))
 print(f"[*] Successfully bind to port:{str(port)}")
 
-# listen for incoming connection
+# listen for incoming connection (max 5 connection in a queue)
 server_socket.listen(5)
 print("[*] Waiting for client")
 
