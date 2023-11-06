@@ -36,13 +36,3 @@ Before running the code, make sure you have the following:
 
 - You can modify the `port` and `ip_address` in the client code to match your server's configuration.
 - Customize the message handling logic in the `handle_client` function in the server code to perform the desired operations.
-
-## Contributing
-
-If you'd like to contribute to this project or report any issues, please create a pull request or open an issue in the repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Feel free to enhance the README with additional details, instructions, and usage examples if necessary.
