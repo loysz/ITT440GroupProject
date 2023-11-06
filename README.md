@@ -1,5 +1,3 @@
-# ITT440GroupProject
-
 # Python Client-Server Application
 
 This is a simple Python client-server application that demonstrates how to establish a socket connection between a client and a server, send messages from the client to the server, and receive responses from the server.
